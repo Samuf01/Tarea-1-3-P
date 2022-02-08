@@ -190,7 +190,7 @@ Si existe un cortocircuito de un devanado primario causara que extraiga demasiad
 5. Conclusiones
 
 - Los inductores  se dividen principalmente en inductores variables y fijos, sin embargo, esta clasificación se considera ambigua, por lo que en la actualidad, si los clasificamos según sus núcleos, entre ellos se encuentran los más utilizados, el inductor tiene un núcleo de aire, hierro y ferrita.
-- Para calcular la inductancia total en serie o LT, se deben sumar las inductancias individuales. Por su parte, para calcular la inductancia total en paralelo o LT se establece una fórmula donde el recíproco de la inductancia total es igual a la suma de los recíprocos de las inductancias individuales.
+- Cuando los inductores están conectados en serie, la inductancia total es la suma de las inductancias de los inductores individuales. Para la conexión en paralelo, la suma de la inversa de todas las inductancias es la inversa de la inductancia total.
 
 6. Bibliografía
 
