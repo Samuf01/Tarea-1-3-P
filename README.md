@@ -6,7 +6,12 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
+Comprender acerca de inductores y transformadores, a través del estudio de los distintos problemas que se puedan presentar, asi analizarlos para construir correctamente los ejercicios planteados en los dos capítulos y aplicar los conocimientos aprendidos de forma correcta.
+
 1.2 Objetivo Especifico
+
+- Aprender en que forma se dividen los inductores.
+- Identificar como calcular la inductancia total en serie y en paralelo.
 
 2. Marco Teórico
 
@@ -183,6 +188,9 @@ SECCIÓN 14–9 Localización de fallas
 Si existe un cortocircuito de un devanado primario causara que extraiga demasiada corriente de la fuente, y a menos que no haya un fusible en el circuito o un cortocircuito, la fuente o el transformador, o ambos podrian quemarse. Un corto parcial puede producir una corriente parcial mas alta de lo normal o de forma excesiva
 
 5. Conclusiones
+
+- Los inductores  se dividen principalmente en inductores variables y fijos, sin embargo, esta clasificación se considera ambigua, por lo que en la actualidad, si los clasificamos según sus núcleos, entre ellos se encuentran los más utilizados, el inductor tiene un núcleo de aire, hierro y ferrita.
+- Para calcular la inductancia total en serie o LT, se deben sumar las inductancias individuales. Por su parte, para calcular la inductancia total en paralelo o LT se establece una fórmula donde el recíproco de la inductancia total es igual a la suma de los recíprocos de las inductancias individuales.
 
 6. Bibliografía
 
