@@ -137,15 +137,21 @@ SECCIÓN 14–7 Características de un transformador no ideal
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
+![image](https://user-images.githubusercontent.com/94079321/152911748-b085ad82-006c-4fea-8b3b-8fbb4fdcb83a.png)
+
 SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
 
 ![image](https://user-images.githubusercontent.com/94079321/152867716-462af315-0ce9-4c49-9e4b-4667a8cf709e.png)
 
+![image](https://user-images.githubusercontent.com/94079321/152911761-7afa3ce5-a953-4068-9a9e-293e39ab02ee.png)
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/94079321/152867752-95153376-e668-4a1b-8e9c-0fa02d694ec5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/152911774-851fdc20-a4f9-459d-afff-8093d672d900.png)
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
@@ -154,9 +160,13 @@ SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
           (a) Todos los voltajes y corrientes presentes en la carga
           (b) La resistencia reflejada en el primario
 
+![image](https://user-images.githubusercontent.com/94079321/152911796-66cd198f-f549-4d74-9c07-e7e77cda7474.png)
+
 SECCIÓN 14–9 Localización de fallas
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Si existe un cortocircuito de un devanado primario causara que extraiga demasiada corriente de la fuente, y a menos que no haya un fusible en el circuito o un cortocircuito, la fuente o el transformador, o ambos podrian quemarse. Un corto parcial puede producir una corriente parcial mas alta de lo normal o de forma excesiva
 
 5. Conclusiones
 
