@@ -60,13 +60,19 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/94079321/152864173-b80760a6-4849-4e1c-b170-36a5243de615.png)
 
+![image](https://user-images.githubusercontent.com/94079321/152914251-7137c753-0997-4e48-bfee-90233e34e459.png)
+
 27. Determine la constante de tiempo para el circuito de la figura 13-50.
 
 ![image](https://user-images.githubusercontent.com/94079321/152864195-c95eeef1-fc73-4c73-9af2-ff57ede64a86.png)
 
+![image](https://user-images.githubusercontent.com/94079321/152914263-18b222c8-bf81-4006-bdfa-1cb52a3529c6.png)
+
 29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
 
 ![image](https://user-images.githubusercontent.com/94079321/152864203-7cb0f5a6-638c-4be0-94b8-9b0f5cd27f9c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/152914275-5186fe5e-6853-4fcb-be18-48b78f2fe7f1.png)
 
 SECCIÓN 13–5 Inductores en circuitos de ca
 
@@ -74,13 +80,21 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/94079321/152864232-125a9497-635b-4d08-a1cf-a61ed44c1df2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/152914301-5e8df500-8fc9-4157-b91e-6d4df24592d9.png)
+
 33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
 
 ![image](https://user-images.githubusercontent.com/94079321/152864241-a6b02dea-4863-4af3-a4cf-529bacf529b3.png)
 
+![image](https://user-images.githubusercontent.com/94079321/152914378-2fee6870-7ab7-47b8-8588-691cc7cf51ba.png)
+
+![image](https://user-images.githubusercontent.com/94079321/152914413-c43b30dc-268a-4d4a-9917-d62035f42385.png)
+
 35. Determine IL2 en la figura 13-52.
 
 ![image](https://user-images.githubusercontent.com/94079321/152864260-b110daaa-6e55-431f-88a8-60b794877ce8.png)
+
+![image](https://user-images.githubusercontent.com/94079321/152914450-df967bf2-38f6-47a1-9042-1b42db791e1d.png)
 
 4. Resolución Unidad 14
 
