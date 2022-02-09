@@ -15,6 +15,9 @@ Comprender acerca de inductores y transformadores, a través del estudio de los 
 
 2. Marco Teórico
 
+![image](https://user-images.githubusercontent.com/94079321/152999998-fad1728f-573c-4b3b-a6dc-e6da242270c1.png)
+
+
 3. Resolución Unidad 13
 
 SECCIÓN 13–1 El inductor básico
