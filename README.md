@@ -56,11 +56,19 @@ SECCIÓN 13–3 Inductores en serie y en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/152864080-717b0b0c-2a85-43b9-8d8e-cd6ae5b72894.png)
 
+![image](https://user-images.githubusercontent.com/94079321/153454658-3f9195bc-174c-45cc-bb56-7d289971e660.png)
+
 15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 μH, 50 μH, 25 μH, y 15 μH.
+
+![image](https://user-images.githubusercontent.com/94079321/153454707-18abc5f2-9548-46b2-88b6-0369cc7247ac.png)
 
 17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
 ![image](https://user-images.githubusercontent.com/94079321/152864120-41b042c5-98c3-4194-8915-1d34d19450c9.png)
+
+![image](https://user-images.githubusercontent.com/94079321/153454775-66958115-1f77-496c-9ee3-1c25f1f9789c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/153454825-c39d631f-3f36-4e5d-a23b-6467120ed9d1.png)
 
 SECCIÓN 13–4 Inductores en circuitos de cd
 
@@ -70,13 +78,19 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 (b) R = 4.7 kΩ, L = 10 mH
 (c) R = 1.5 MΩ, L = 3 H
 
+![image](https://user-images.githubusercontent.com/94079321/153454896-1aa72d1c-e355-4616-b5e5-25e87ab58368.png)
+
 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
 (a) 10 μs     (b) 20	μs     (c) 30	μs     (d) 40	μs     (e) 50	μs
 
 ![image](https://user-images.githubusercontent.com/94079321/152864159-03b9673b-4fa8-4a92-8131-e945f2dd6a10.png)
 
+![image](https://user-images.githubusercontent.com/94079321/153454961-b906cbf6-7a22-4405-9c3a-e9594ac28dcf.png)
+
 23. Repita el problema 21 para los siguientes instantes:
 (a) 2 μs     (b) 5	μs     (c) 15	μs  
+
+![image](https://user-images.githubusercontent.com/94079321/153455011-8d4ca22b-0b9c-4302-918e-bd72ff474c9d.png)
 
 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
@@ -156,6 +170,8 @@ SECCIÓN 14–3 Transformadores elevadores y reductores
 
 ![image](https://user-images.githubusercontent.com/94079321/152867577-f341fd7d-1511-45d9-b810-c330a75bf766.png)
 
+![image](https://user-images.githubusercontent.com/94079321/153455167-53bc2e7c-a978-4d6f-a9a0-ceff5e2bb59a.png)
+
 SECCIÓN 14–4 Carga del devanado secundario
 
 15. Determine las siguientes cantidades en la figura 14-46.
@@ -165,11 +181,17 @@ SECCIÓN 14–4 Carga del devanado secundario
                 (a) Corriente primaria (b) Corriente secundaria
                 (c) Voltaje secundario (d) Potencia en la carga
 
+![image](https://user-images.githubusercontent.com/94079321/153455236-12283e23-4efc-406b-9b7b-4c1ffa211649.png)
+
+![image](https://user-images.githubusercontent.com/94079321/153455282-6b1ed806-a286-475d-9090-ef290f2fed73.png)
+
 SECCIÓN 14–5 Carga reflejada
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
 
 ![image](https://user-images.githubusercontent.com/94079321/152867642-cda499a2-a6e8-46d0-80f0-f97ef895116c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/153455326-86e9d4ec-fffc-4f42-bea4-cdd0ae2f641f.png)
 
 SECCIÓN 14–6 Igualación de impedancia
 
@@ -177,11 +199,17 @@ SECCIÓN 14–6 Igualación de impedancia
 
 ![image](https://user-images.githubusercontent.com/94079321/152867667-e759278c-b11c-4eb0-bfb7-508f216b013c.png)
 
+![image](https://user-images.githubusercontent.com/94079321/153455364-7dbd758d-9fec-4651-acba-9c6b0c302ff8.png)
+
 SECCIÓN 14–7 Características de un transformador no ideal
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
+![image](https://user-images.githubusercontent.com/94079321/153455438-bcdc65f2-1c73-4e48-9140-181277cf9679.png)
+
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+![image](https://user-images.githubusercontent.com/94079321/153455498-69e946cb-4b41-4332-a084-2eacade40634.png)
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
