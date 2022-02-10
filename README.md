@@ -17,8 +17,7 @@ Comprender acerca de inductores y transformadores, a través del estudio de los 
 
 ![image](https://user-images.githubusercontent.com/94079321/152999998-fad1728f-573c-4b3b-a6dc-e6da242270c1.png)
 
-
-
+![image](https://user-images.githubusercontent.com/94079321/153273629-d2923e8e-247f-4b25-be11-c94f49d340fb.png)
 
 3. Resolución Unidad 13
 
