@@ -27,19 +27,32 @@ SECCIÓN 13–1 El inductor básico
 
 (a) 1 H   (b) 250 μH    (c) 10 μH   (d) 0.0005 H
 
+![image](https://user-images.githubusercontent.com/94079321/153416442-0a529fa0-12dc-4f87-b490-677f2297c22a.png)
+
 3. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/μs y L = 5 	μH?
+
+![image](https://user-images.githubusercontent.com/94079321/153416545-8c41d57c-540c-4507-b2ef-99c6124d8d2b.png)
+
 
 5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
 
+![image](https://user-images.githubusercontent.com/94079321/153416777-b9fee254-7749-426d-a147-aca890bd97fe.png)
+
 7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
 
+![image](https://user-images.githubusercontent.com/94079321/153416854-88180092-b967-4bf2-802e-9865bd6b89d9.png)
+
 9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).
+
+Se sabe que la inductancia es directamente proporcional a la permeabilidad del material del núcleo, por tanto, para el inductor 1, al poseer más alta permeabilidad se puede establecer más fácil el campo magnético a comparación del inductor 2 de hierro.
 
 SECCIÓN 13–3 Inductores en serie y en paralelo
 
 11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
 
-13. Determine la inductancia total en la figura 13-44. 
+![image](https://user-images.githubusercontent.com/94079321/153417026-d79084a0-d44a-43be-9a4c-6c7c10632fe3.png)
+
+13. Determine la inductancia total en la figura 13-44.
 
 ![image](https://user-images.githubusercontent.com/94079321/152864080-717b0b0c-2a85-43b9-8d8e-cd6ae5b72894.png)
 
@@ -111,21 +124,33 @@ SECCIÓN 14–1 Inductancia mutua
 
 1. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 μH, y L2 = 4	μH?
 
+![image](https://user-images.githubusercontent.com/94079321/153417213-c091236f-337a-409c-96f4-f15f49a56f78.png)
+
 SECCIÓN 14–2 El transformador básico
 
 3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/94079321/153417262-06e0c6e6-2484-4869-9fce-2f1d240e2ced.png)
 
 5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 
 ![image](https://user-images.githubusercontent.com/94079321/152867514-fe9c59df-69a3-44fc-ba6b-5d690a06d017.png)
 
+![image](https://user-images.githubusercontent.com/94079321/153417315-c23637be-7309-4752-ad6d-f1ccebc6fb9f.png)
+
 SECCIÓN 14–3 Transformadores elevadores y reductores
 
 7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
 
+![image](https://user-images.githubusercontent.com/94079321/153417376-185ebfa8-9a0b-4811-9c0c-9a58c466d73e.png)
+
 9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+![image](https://user-images.githubusercontent.com/94079321/153417454-27bcd4a5-7598-49ca-902c-25243ec29519.png)
+
+11. ¿Cuántos voltios primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+![image](https://user-images.githubusercontent.com/94079321/153417547-1689d7e8-8476-4609-b4bb-b3eadd03b12a.png)
 
 13. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
